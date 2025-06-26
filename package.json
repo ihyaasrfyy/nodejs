@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
